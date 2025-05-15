@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NJP6969
 - 👀 I’m interested in Dev!
-- 🌱 I’m currently an undergrad researcher.
+- 🌱 I’m currently an undergrad researcher and Cloud intern!
 - 📫 How to reach me: mail me at narasimha.pai@research.iiit.ac.in
 - ⚡ Fun fact: I've won a 10k run!
 
