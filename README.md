@@ -3,6 +3,7 @@
 - 🌱 I’m currently an undergrad researcher and teaching assistant!
 - 📫 How to reach me: mail me at narasimha.pai@research.iiit.ac.in
 - ⚡ Fun fact: I've won a 10k run!
+- I like drumming and footie
 
 <!---
 NJP6969/NJP6969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
